@@ -1,2 +1,7 @@
-# DOGS-vs-CATS-CLASSIFIER-PREDICTION-MODEL-USING-ML
-A Binary Classifier to predict 0 if the input is a cat image and to predict 1 if the input is a Dog image using ML
+# DOGS-vs-CATS-IMAGE-CLASSIFIER-PREDICTION-MODEL-USING-ML
+
+Cat and Dog Image Classifier :
+an image classification model to distinguish between images of cats and dogs using data science techniques in Python.
+
+output value for indicating a cat image as input = 0
+output value for indicating a dog image as input = 1
